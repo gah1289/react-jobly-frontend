@@ -1,0 +1,95 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders Profile matches snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <form
+      class=""
+    >
+      <h1>
+        Test's Profile
+      </h1>
+      <h2>
+        Change Profile:
+      </h2>
+      <div
+        class="row mb-3"
+      >
+        <label
+          class="col-sm-2 col-form-label"
+          for="firstName"
+        >
+          First Name
+        </label>
+        <div
+          class="col-sm-5"
+        >
+          <input
+            class="form-control"
+            id="firstName"
+            name="firstName"
+            placeholder="Test"
+            type="text"
+          />
+        </div>
+      </div>
+      <div
+        class="row mb-3"
+      >
+        <label
+          class="col-sm-2 col-form-label"
+          for="lastName"
+        >
+          Last Name
+        </label>
+        <div
+          class="col-sm-5"
+        >
+          <input
+            class="form-control"
+            id="lastName"
+            name="lastName"
+            placeholder="User"
+            type="text"
+          />
+        </div>
+      </div>
+      <div
+        class="row mb-3"
+      >
+        <label
+          class="col-sm-2 col-form-label"
+          for="email"
+        >
+          Email
+        </label>
+        <div
+          class="col-sm-5"
+        >
+          <input
+            class="form-control"
+            id="email"
+            name="email"
+            placeholder="test@user.com"
+            type="text"
+          />
+        </div>
+      </div>
+      <div
+        class="row form-check"
+      >
+        <div
+          class="col-sm-5 offset-sm-2"
+        >
+          <button
+            class="btn btn-secondary"
+            type="button"
+          >
+            Submit
+          </button>
+        </div>
+      </div>
+    </form>
+  </div>
+</DocumentFragment>
+`;

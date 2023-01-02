@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Loads Job Card matches snapshot with no jobs 1`] = `
+<DocumentFragment>
+    /&gt; 
+</DocumentFragment>
+`;

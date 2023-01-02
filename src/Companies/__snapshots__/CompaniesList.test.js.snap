@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Loads Company Card shows card with company information 1`] = `
+<DocumentFragment>
+   
+  <div
+    class="company-card card"
+    style="min-width: 30vw;"
+  >
+    <img
+      alt="Anderson, Arias and Morrow"
+      class="card-img-top"
+      src="logo3.png"
+      style="height: 150px; width: 200px; margin: auto;"
+      width="100%"
+    />
+    <div
+      class="card-body"
+    >
+      <h5
+        class="card-title"
+      >
+        Anderson, Arias and Morrow
+      </h5>
+      <h6
+        class="mb-2 text-muted card-subtitle"
+      >
+        Size: 245 Employees
+      </h6>
+      <p
+        class="card-text"
+      >
+        Somebody program how I. Face give away discussion view act inside. Your official relationship administration here.
+      </p>
+      <button
+        class="btn btn-secondary"
+        type="button"
+      >
+        Jobs
+      </button>
+    </div>
+  </div>
+   
+</DocumentFragment>
+`;

@@ -1,0 +1,14 @@
+.Nav a {
+	color: #fff;
+	text-decoration: none;
+	padding: 0 2vw;
+}
+
+.Nav a:hover {
+	color: bisque;
+	text-decoration: underline;
+}
+
+.hidden {
+	display: none;
+}

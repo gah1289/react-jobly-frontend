@@ -1,0 +1,66 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders Routes matches snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <nav
+      class="my-2  navbar navbar-dark bg-dark"
+    >
+      <div
+        class="container-fluid"
+      >
+        <a
+          class="navbar-brand"
+          href="/"
+        >
+          Jobly
+        </a>
+        <ul
+          class="Nav nav"
+        >
+          <li
+            class="nav-item"
+          >
+            <a
+              class=""
+              href="/companies"
+            >
+              Companies
+            </a>
+          </li>
+          <li
+            class="nav-item"
+          >
+            <a
+              class=""
+              href="/jobs"
+            >
+              Jobs
+            </a>
+          </li>
+          <li
+            class="nav-item"
+          >
+            <a
+              class=""
+              href="/profile"
+            >
+              Profile
+            </a>
+          </li>
+          <li
+            class="nav-item"
+          >
+            <a
+              class=""
+              href="/logout"
+            >
+              Log Out
+            </a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,24 @@
+.company-card {
+	min-width: 33vw;
+	max-width: 33vw;
+}
+
+.company-card-group {
+	width: 100vw;
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+}
+
+.companies-form input {
+	margin: 5px;
+	align-self: left;
+}
+
+.companies-form input[type=number] {
+	width: 100px;
+}
+
+.companies-form button {
+	margin: 10px 0 20px;
+}

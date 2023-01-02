@@ -1,0 +1,155 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders Profile matches snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <h1>
+      Register
+    </h1>
+    <form
+      class=""
+    >
+      <div
+        class="invalid-feedback"
+      />
+      <div
+        class="row mb-3"
+      >
+        <label
+          class="col-sm-2 col-form-label"
+          for="username"
+        >
+          Username: 
+        </label>
+        <div
+          class="col-sm-5"
+        >
+          <input
+            aria-invalid="false"
+            class="form-control"
+            id="username"
+            name="username"
+            required=""
+            type="text"
+            value=""
+          />
+          <div
+            class="invalid-feedback"
+          />
+        </div>
+      </div>
+      <div
+        class="row mb-3"
+      >
+        <label
+          class="col-sm-2 col-form-label"
+          for="firstName"
+        >
+          First Name: 
+        </label>
+        <div
+          class="col-sm-5"
+        >
+          <input
+            class="form-control"
+            id="firstName"
+            name="firstName"
+            required=""
+            type="text"
+            value=""
+          />
+          <div
+            class="invalid-feedback"
+          >
+            First Name Required.
+          </div>
+        </div>
+      </div>
+      <div
+        class="row mb-3"
+      >
+        <label
+          class="col-sm-2 col-form-label"
+          for="lastName"
+        >
+          Last Name: 
+        </label>
+        <div
+          class="col-sm-5"
+        >
+          <input
+            class="form-control"
+            id="lastName"
+            name="lastName"
+            required=""
+            type="text"
+            value=""
+          />
+          <div
+            class="invalid-feedback"
+          >
+            Last Name Required.
+          </div>
+        </div>
+      </div>
+      <div
+        class="row mb-3"
+      >
+        <label
+          class="col-sm-2 col-form-label"
+          for="email"
+        >
+          Email: 
+        </label>
+        <div
+          class="col-sm-5"
+        >
+          <input
+            class="form-control"
+            id="email"
+            name="email"
+            required=""
+            type="email"
+            value=""
+          />
+          <div
+            class="invalid-feedback"
+          >
+            Email Required.
+          </div>
+        </div>
+      </div>
+      <div
+        class="row mb-3"
+      >
+        <label
+          class="col-sm-2 col-form-label"
+          for="password"
+        >
+          Password: 
+        </label>
+        <div
+          class="col-sm-5"
+        >
+          <input
+            aria-invalid="false"
+            class="form-control"
+            id="password"
+            name="password"
+            type="password"
+            value=""
+          />
+          <div
+            class="invalid-feedback"
+          />
+        </div>
+      </div>
+      <button
+        class="btn btn-secondary"
+      >
+        Sign Up
+      </button>
+    </form>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Loads Home Page greets user once they have logged in 1`] = `
+<DocumentFragment>
+   
+  <div>
+    <h1>
+      Hello, Test!
+    </h1>
+  </div>
+   
+</DocumentFragment>
+`;
+
+exports[`Loads Home Page prompts user to log in 1`] = `
+<DocumentFragment>
+   
+  <div>
+    <h1>
+      Welcome! 
+    </h1>
+    <a
+      href="/login"
+    >
+      <button
+        class="btn btn-secondary"
+      >
+        Login
+      </button>
+    </a>
+    <a
+      href="/signup"
+    >
+      <button
+        class="btn btn-secondary"
+      >
+        Signup
+      </button>
+    </a>
+  </div>
+   
+</DocumentFragment>
+`;
