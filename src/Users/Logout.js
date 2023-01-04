@@ -1,6 +1,6 @@
 import { useContext, useEffect } from 'react';
 import { Navigate } from 'react-router-dom';
-import JoblyApi from '../api';
+
 import ItemContext from '../ItemContext';
 
 function Logout() {

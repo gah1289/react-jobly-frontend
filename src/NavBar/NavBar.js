@@ -1,9 +1,8 @@
-import React, { useContext, useState, useEffect } from 'react';
+import React, { useContext } from 'react';
 import './NavBar.css';
 import { NavLink } from 'react-router-dom';
 import { Navbar, Nav, NavItem, NavbarBrand } from 'reactstrap';
 import ItemContext from '../ItemContext';
-import JoblyApi from '../api';
 
 function NavBar() {
 	// The navbar list the Jobly logo as a link for the home page. It will also list NavLinks for companies,

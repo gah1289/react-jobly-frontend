@@ -1,7 +1,5 @@
-import JoblyApi from '../api';
-import axios from 'axios';
 import { Routes, Route } from 'react-router-dom';
-import React, { useContext } from 'react';
+import React from 'react';
 import Home from '../Home/Home';
 import CompaniesList from '../Companies/CompaniesList';
 import Company from '../Companies/Company';
